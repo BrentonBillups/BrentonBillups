@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BrentonBillups
+- 👀 I’m interested in: Programming and computer repair.
+- 🌱 I’m currently learning: Java 
+- 💞️ I’m not looking to collaborate on anything, due to my lack of knowledge and skill at the moment.
+- 📫 How to reach me: If you need to reach me, I am easiest to reach over discord! --> IdlePhoenix #1873
